@@ -1,4 +1,4 @@
 # Public-Links 📢
 ---
 ### Google drive public links
-- [Chiral oxides](https://docs.google.com/presentation/d/1vweBmVkKYMyPfQpLx9C4lZxlBvRgwjnyjOXwb-qjW0Q/edit?usp=sharing)
+- [tmp talk](https://docs.google.com/presentation/d/178hJfXKl_lXvC93wBMj7s9WDyAPNqJa7Mho6DJGJr8g/edit?usp=sharing)
